@@ -1,0 +1,29 @@
+.errors-msg
+        {
+            color : pink ;
+            font-style : italic ;
+            font-weight : bold ;
+        }
+        body
+        {
+            background : #777 ;
+            color : #fff ;
+        }
+        .wrapper
+        {
+            width : 680px ;
+            min-width: 70px;
+            margin : 0 auto ;
+            padding-top : 8em ; 
+            text-align: center; 
+        }
+        input[type= "text"]
+        {
+            width: 100%;
+            bottom: none;
+            padding: 1em 0.5em; 
+            border-radius : 3px ;         
+        }
+        a{
+            color : #ccc ;
+        }
